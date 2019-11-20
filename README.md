@@ -1,3 +1,3 @@
 # Load Calculator
 
-In Pure Vanila JavaScript
+In Pure Vanilla JavaScript
