@@ -1,3 +1,3 @@
-# Load Calculator
+# Load Calculator Project For JavaScript Beginners 
 
 In Pure Vanilla JavaScript
